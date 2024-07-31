@@ -5,6 +5,6 @@ time = int(input("Enter the time period (in years): "))
 
 # Calculate simple interest
 simple = ((principal * rate * time) / 100)
-
+#
 # Display the result
 print(f"The calculated simple interest is: {simple}")
